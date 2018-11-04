@@ -1,0 +1,42 @@
+- DONE Le haut (de la bannière à la photo de l'EP) s'affiche mal en affichage mobile
+
+- le texte de la partie actualités n'est plus à jour
+
+- DONE Est ce qu'on ajouterai pas les liens deezer spotify et autres en plus du soundcloud ? Peut être pas sur la même forme, mais ça ferait pas mal ? Et une vidéo ?
+
+- DONE Resize Idéograms
+
+- DONE ACCUEIL: Descendre la photo d'accueil pour qu'on voit nos têtes.
+
+- DONE Je trouve que le gros "Idéograms" en blanc ne ressort pas des masses et est trop bas sur l'écran. Pour qu'il ressorte il faudrait qu'il soit au niveau de nos bustes sur la photo ou alors que la photo soit plus sombre...
+
+- DONE Retirer Hip Hop Jazz Soul, on n'a pas besoin à mon sens de nous mettre un sous-titre ou bien il faut bien réfléchir à la définition de l'univers du groupe et pas faire qqch de fourre tout.
+
+- Le bouton "Nouvel EP" devrait rediriger vers l'EP et être visible dès l'ouverture de la page (il est trop bas aussi selon moi). Ou bien le supprimer... on n'en a pas forcément besoin.
+
+PAGE EP: faire en sorte que le bouton EP de la bannière amène vers cette page...
+- DONE Si tu as moyen de mettre bandcamp c'est plus pro que soundcloud je trouve.
+- DP?E Si tu peux mettre des vignettes avec des liens deezer/apple music/spotify c'est cool!
+
+PAGE ACTUALITE:
+- revoir le descriptif, il faut faire plus pro et sortir du truc "bande de pote", s'inspirer de la Biographie du groupe que j'ai fait (je te l'envoie).
+-  Mettre les 3 blocs au même niveau ou ne pas faire de bloc spécialement
+- Mettre de vraies actus --> y-a-t-il moyen d'organiser cette fenêtre un peu comme un blog où on peut dérouler un fil des actus.
+A défaut, je verrais bien un nouvel onglet "CONCERTS" avec l'actu de nos concerts à venir (et passés).
+Je pense que c'est vraiment important que les gens voient qu'on a beaucoup joué.
+
+PHOTOS:
+- mettre le lieu sous cette forme: @ NomDeLaSalle - Lieu ex: @Réservoir - Paris ou @L'Embarcadère - Aubervilliers
+- Faire en sorte si possible que quand on clique ça ouvre la photo en grand. Sinon, il faut virer la possibilité de cliquer dessus.
+- Supprimer les photos à Mon Coeur Belleville ou des scènes trop petites. Utiliser les dernières photos du réservoir
+- Supprimer la photo à Plain Air Radio qui est atroce
+
+MUSICIENS:
+- c'est cool mais pour l'unité avec les photos d'avant, pourquoi ne pas faire pareil, en faisant apparaître les noms et ce que les gens font directement sur la photo plutôt qu'à côté?
+
+DOCUMENTS:
+- Supprimer cette section et l'intégrer dans une section "CONTACT PRO"; mettre la bio sur le lien "dossier de presse" et ajouter la fiche technique pour qu'elle se télécharge quand on clique dessus. Dans cette section CONTACT PRO, mettre en évidence le numéro de téléphone et le mail. Tu peux mettre mon numéro si tu veux. 0033 7 81 39 86 87
+
+DE MANIERE GENERALE:
+- mettre le nom des sections au sein des pages en plus gras si possible (cf site chromatik)
+- Si tu as moyen de laisser la barre de menu en haut de la fenêtre quand on descend c'est cool car sinon c'est galère de naviguer je trouve. Qu'elle soit tout le temps visible à l'écran.
